@@ -1,5 +1,7 @@
 # FullHouse GYM Landing Page
 
+With Next.js and TailWindCSS
+
 ## Menjalankan project
 ```bash
 npm install
